@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 const prompt = require("prompt-sync")();
 
 
@@ -15,3 +16,15 @@ if (numero1 > numero2) {  // aqui hacemos las comparaciones
 }else {
     console.log ("Los numeros son iguales");
 }      
+=======
+const promt = require('prompt-sync')();
+
+//pedimos al usuario que ingrese un numero
+
+let numero = parseFloat(promt("Ingrese un numero: "));
+
+//calculamos el doble del numero ingresado
+let dobleNumero = numero * 2;
+//mostramos el resultado
+console.log("El doble de tu numero ingresado es: " + dobleNumero);
+>>>>>>> 51428a2a36a02b6097170305397974739a1d491d

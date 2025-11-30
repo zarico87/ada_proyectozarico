@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 const prompt = require("prompt-sync")();
 
 console.log("Vamos a comparar tres números para encontrar el mayor.");
@@ -16,3 +17,11 @@ if (numero1 >= numero2 && numero1 >= numero3) {  // aqui hacemos las comparacion
 }else {
     console.log ("El numero mayor es: " + numero3);
 }   
+=======
+const prompt = require('prompt-sync')();
+
+//pedimos al usuario que ingrese su nombre
+let nombre = prompt("Ingrese su nombre: ");
+//mostramos un saludo personalizado
+console.log("Hola, " + nombre + "! Bienvenido/a. a ADA");
+>>>>>>> 51428a2a36a02b6097170305397974739a1d491d
