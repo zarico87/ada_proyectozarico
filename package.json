@@ -1,0 +1,19 @@
+{
+<<<<<<< HEAD
+  "name": "ejclase9",
+  "version": "1.0.0",
+  "description": "",
+  "main": "ej1.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+=======
+>>>>>>> 51428a2a36a02b6097170305397974739a1d491d
+  "dependencies": {
+    "prompt-sync": "^4.2.0"
+  }
+}
