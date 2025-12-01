@@ -1,0 +1,1 @@
+// ejemplos de nombres de vinculaciones validas
