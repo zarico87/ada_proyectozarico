@@ -1,0 +1,16 @@
+{
+  "name": "tp_integrador_ricozarina_js",
+  "version": "1.0.0",
+  "description": "",
+  "main": "Tpintegrador_Ricozarina.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "dependencies": {
+    "prompt-sync": "^4.2.0"
+  }
+}
